@@ -39,7 +39,7 @@ streamlit run app.py
 ```
 
 ## 🌐 Live Demo
-[Click here to try the app](#) ← update after deployment
+https://ai-powered-ats-resume-analyzer-gpnh3pxhypfp9nwmn5yxsk.streamlit.app/
 
 ## 📌 Use Case
 Built for job seekers to optimize their resumes against job descriptions using AI-powered ATS analysis.
